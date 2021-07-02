@@ -11,6 +11,8 @@ sites:
     url: https://id.pathwar.land
   - name: api-dev.pathwar.land
     url: https://api-dev.pathwar.land
+  - name: assets.pathwar.land
+    url: https://assets.pathwar.land
   - name: fr1.pathwar.net
     url: fr1.pathwar.net
     port: 22
