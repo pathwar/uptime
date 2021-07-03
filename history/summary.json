@@ -34,7 +34,7 @@
     "timeMonth": 416,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2021-07-03": 532,
+      "2021-07-03": 533,
       "2021-07-02": 738
     }
   },
@@ -62,11 +62,11 @@
     "icon": "https://favicons.githubusercontent.com/api-dev.pathwar.land",
     "slug": "api-dev-pathwar-land",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 422,
     "timeDay": 422,
     "timeWeek": 422,
