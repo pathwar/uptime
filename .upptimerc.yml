@@ -6,11 +6,11 @@ sites:
   - name: pathwar.land
     url: https://pathwar.land
   - name: api.pathwar.land
-    url: https://api.pathwar.land
+    url: https://api.pathwar.land/status
   - name: id.pathwar.land
     url: https://id.pathwar.land
   - name: api-dev.pathwar.land
-    url: https://api-dev.pathwar.land
+    url: https://api-dev.pathwar.land/status
   - name: assets.pathwar.land
     url: https://assets.pathwar.land
   - name: fr1.pathwar.net
