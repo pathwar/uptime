@@ -36,7 +36,7 @@
     "timeMonth": 406,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2021-08-19": 1346,
+      "2021-08-19": 1351,
       "2021-08-18": 1440,
       "2021-08-17": 1440,
       "2021-08-16": 1440,
@@ -138,19 +138,19 @@
     "url": "https://assets.pathwar.land",
     "icon": "https://favicons.githubusercontent.com/assets.pathwar.land",
     "slug": "assets-pathwar-land",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 173,
-    "timeWeek": 131,
-    "timeMonth": 125,
-    "timeYear": 169,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 168,
+    "timeDay": 148,
+    "timeWeek": 127,
+    "timeMonth": 124,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2021-08-19": 0
+      "2021-08-19": 6
     }
   },
   {
