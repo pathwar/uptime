@@ -37,7 +37,7 @@
     "timeMonth": 444,
     "timeYear": 424,
     "dailyMinutesDown": {
-      "2021-11-02": 12,
+      "2021-11-02": 299,
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
@@ -168,9 +168,9 @@
     "url": "https://id.pathwar.land",
     "icon": "https://favicons.githubusercontent.com/id.pathwar.land",
     "slug": "id-pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -180,6 +180,7 @@
     "timeMonth": 429,
     "timeYear": 409,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-07-30": 4,
       "2021-07-15": 5,
       "2021-07-07": 9
