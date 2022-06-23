@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/api.pathwar.land",
     "slug": "api-pathwar-land",
     "status": "up",
-    "uptime": "36.83%",
+    "uptime": "36.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "36.83%",
+    "uptimeYear": "36.88%",
     "time": 407,
     "timeDay": 240,
     "timeWeek": 504,
@@ -398,9 +398,9 @@
     "url": "fr1.pathwar.net",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "fr1-pathwar-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -409,7 +409,9 @@
     "timeWeek": 133,
     "timeMonth": 123,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-23": 0
+    }
   },
   {
     "name": "fr2.pathwar.net",
