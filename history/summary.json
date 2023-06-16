@@ -41,18 +41,19 @@
     "url": "https://api.pathwar.land/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
-    "status": "up",
-    "uptime": "68.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "68.55%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 454,
+    "time": 453,
     "timeDay": 261,
     "timeWeek": 349,
     "timeMonth": 363,
     "timeYear": 486,
     "dailyMinutesDown": {
+      "2023-06-16": 1,
       "2022-12-01": 7
     }
   },
@@ -110,9 +111,9 @@
     "url": "https://api-dev.pathwar.land/status",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -121,7 +122,9 @@
     "timeWeek": 1802,
     "timeMonth": 696,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   },
   {
     "name": "assets.pathwar.land",
