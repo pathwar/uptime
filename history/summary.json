@@ -4,10 +4,10 @@
     "url": "https://pathwar.land",
     "icon": "https://icons.duckduckgo.com/ip3/pathwar.land.ico",
     "slug": "pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
@@ -16,6 +16,7 @@
     "timeMonth": 589,
     "timeYear": 617,
     "dailyMinutesDown": {
+      "2025-01-16": 1,
       "2024-09-17": 8,
       "2024-08-09": 8,
       "2024-03-16": 6
@@ -27,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "39.14%",
+    "uptime": "39.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-16": 29,
+      "2025-01-16": 217,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -442,7 +443,7 @@
     "timeMonth": 568,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2025-01-16": 30,
+      "2025-01-16": 217,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
@@ -814,9 +815,9 @@
     "url": "https://assets.pathwar.land",
     "icon": "https://icons.duckduckgo.com/ip3/assets.pathwar.land.ico",
     "slug": "assets-pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -826,6 +827,7 @@
     "timeMonth": 206,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2025-01-16": 0,
       "2024-08-09": 7,
       "2024-03-16": 27
     }
