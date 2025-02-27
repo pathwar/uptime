@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-27": 252,
+      "2025-02-27": 262,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -445,7 +445,7 @@
     "timeMonth": 546,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2025-02-27": 252,
+      "2025-02-27": 262,
       "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
@@ -839,11 +839,11 @@
     "url": "fr1.pathwar.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr1-pathwar-net",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 112,
     "timeDay": 88,
@@ -851,7 +851,7 @@
     "timeMonth": 104,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 9
     }
   },
   {
