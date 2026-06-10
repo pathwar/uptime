@@ -4,11 +4,11 @@
     "url": "https://pathwar.land",
     "icon": "https://icons.duckduckgo.com/ip3/pathwar.land.ico",
     "slug": "pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.78%",
     "time": 742,
     "timeDay": 489,
@@ -34,7 +34,8 @@
       "2026-03-20": 13,
       "2026-03-25": 18,
       "2026-05-19": 59,
-      "2026-06-07": 19
+      "2026-06-07": 19,
+      "2026-06-10": 6
     }
   },
   {
@@ -54,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-10": 76,
+      "2026-06-10": 89,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -438,7 +439,7 @@
     "timeMonth": 238,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2026-06-10": 77,
+      "2026-06-10": 89,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -791,7 +792,7 @@
     "timeMonth": 369,
     "timeYear": 594,
     "dailyMinutesDown": {
-      "2026-06-10": 77,
+      "2026-06-10": 89,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1163,13 +1164,13 @@
     "url": "https://assets.pathwar.land",
     "icon": "https://icons.duckduckgo.com/ip3/assets.pathwar.land.ico",
     "slug": "assets-pathwar-land",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.79%",
-    "time": 344,
+    "time": 345,
     "timeDay": 745,
     "timeWeek": 479,
     "timeMonth": 523,
@@ -1188,7 +1189,8 @@
       "2026-02-11": 23,
       "2026-03-20": 12,
       "2026-05-19": 62,
-      "2026-06-07": 14
+      "2026-06-07": 14,
+      "2026-06-10": 0
     }
   },
   {
