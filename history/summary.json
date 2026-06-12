@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pathwar.land.ico",
     "slug": "pathwar-land",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "50.17%",
-    "uptimeWeek": "92.69%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.69%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.38%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "99.37%",
     "time": 742,
-    "timeDay": 830,
-    "timeWeek": 699,
-    "timeMonth": 811,
+    "timeDay": 300,
+    "timeWeek": 676,
+    "timeMonth": 810,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2025-07-23": 13,
@@ -36,7 +36,8 @@
       "2026-05-19": 59,
       "2026-06-07": 19,
       "2026-06-10": 638,
-      "2026-06-11": 79
+      "2026-06-12": 82,
+      "2026-06-11": 1440
     }
   },
   {
@@ -45,7 +46,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "28.05%",
+    "uptime": "28.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -56,7 +57,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-11": 79,
+      "2026-06-12": 82,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -419,8 +421,7 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440
+      "2025-06-13": 1440
     }
   },
   {
@@ -429,18 +430,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "76.78%",
+    "uptime": "76.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.69%",
+    "uptimeYear": "8.41%",
     "time": 467,
-    "timeDay": 576,
-    "timeWeek": 274,
-    "timeMonth": 246,
-    "timeYear": 440,
+    "timeDay": 201,
+    "timeWeek": 275,
+    "timeMonth": 249,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2026-06-11": 79,
+      "2026-06-12": 82,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -783,18 +785,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "43.99%",
+    "uptime": "43.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 597,
-    "timeDay": 456,
-    "timeWeek": 359,
-    "timeMonth": 363,
-    "timeYear": 593,
+    "time": 596,
+    "timeDay": 283,
+    "timeWeek": 361,
+    "timeMonth": 364,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2026-06-11": 79,
+      "2026-06-12": 82,
+      "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
@@ -1157,8 +1160,7 @@
       "2025-06-16": 1440,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
-      "2025-06-13": 1440,
-      "2025-06-12": 1440
+      "2025-06-13": 1440
     }
   },
   {
@@ -1167,16 +1169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.pathwar.land.ico",
     "slug": "assets-pathwar-land",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "50.88%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.86%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "78.53%",
+    "uptimeMonth": "94.92%",
+    "uptimeYear": "99.38%",
     "time": 347,
-    "timeDay": 571,
-    "timeWeek": 546,
-    "timeMonth": 535,
-    "timeYear": 389,
+    "timeDay": 51,
+    "timeWeek": 526,
+    "timeMonth": 533,
+    "timeYear": 388,
     "dailyMinutesDown": {
       "2025-07-24": 20,
       "2025-09-27": 6,
@@ -1193,7 +1195,8 @@
       "2026-05-19": 62,
       "2026-06-07": 14,
       "2026-06-10": 629,
-      "2026-06-11": 79
+      "2026-06-12": 82,
+      "2026-06-11": 1440
     }
   },
   {
@@ -1208,10 +1211,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.94%",
     "time": 113,
-    "timeDay": 148,
+    "timeDay": 90,
     "timeWeek": 113,
     "timeMonth": 112,
-    "timeYear": 115,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-09-12": 10,
       "2026-02-11": 209,
@@ -1230,10 +1233,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 152,
+    "timeDay": 89,
     "timeWeek": 111,
     "timeMonth": 112,
-    "timeYear": 115,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
