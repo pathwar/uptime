@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.69%",
     "time": 742,
-    "timeDay": 432,
-    "timeWeek": 628,
-    "timeMonth": 702,
+    "timeDay": 600,
+    "timeWeek": 636,
+    "timeMonth": 698,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2025-08-16": 5,
@@ -62,10 +62,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "27.31%",
+    "uptime": "27.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-30": 45,
+      "2026-07-31": 51,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -436,8 +437,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -446,18 +446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "74.75%",
+    "uptime": "74.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 442,
-    "timeDay": 187,
-    "timeWeek": 245,
+    "time": 441,
+    "timeDay": 298,
+    "timeWeek": 243,
     "timeMonth": 280,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-07-30": 45,
+      "2026-07-31": 52,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -820,8 +821,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -830,18 +830,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "42.83%",
+    "uptime": "42.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 579,
-    "timeDay": 284,
-    "timeWeek": 363,
-    "timeMonth": 367,
+    "timeDay": 458,
+    "timeWeek": 389,
+    "timeMonth": 370,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-07-30": 45,
+      "2026-07-31": 52,
+      "2026-07-30": 1440,
       "2026-07-29": 1440,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
@@ -1204,8 +1205,7 @@
       "2025-08-04": 1440,
       "2025-08-03": 1440,
       "2025-08-02": 1440,
-      "2025-08-01": 1440,
-      "2025-07-31": 1440
+      "2025-08-01": 1440
     }
   },
   {
@@ -1219,10 +1219,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.70%",
-    "time": 365,
-    "timeDay": 209,
-    "timeWeek": 475,
-    "timeMonth": 440,
+    "time": 364,
+    "timeDay": 337,
+    "timeWeek": 491,
+    "timeMonth": 436,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-09-27": 6,
@@ -1272,10 +1272,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 113,
-    "timeDay": 91,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 114,
+    "timeDay": 152,
+    "timeWeek": 118,
+    "timeMonth": 110,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-09-12": 10,
       "2026-02-11": 209,
@@ -1294,10 +1294,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 90,
-    "timeWeek": 108,
-    "timeMonth": 109,
-    "timeYear": 114,
+    "timeDay": 150,
+    "timeWeek": 117,
+    "timeMonth": 110,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   }
 ]
