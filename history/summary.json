@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.69%",
     "time": 743,
-    "timeDay": 518,
-    "timeWeek": 643,
-    "timeMonth": 680,
+    "timeDay": 866,
+    "timeWeek": 622,
+    "timeMonth": 669,
     "timeYear": 743,
     "dailyMinutesDown": {
       "2025-08-16": 5,
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "27.28%",
+    "uptime": "27.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -73,7 +73,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-01": 161,
+      "2026-08-02": 52,
+      "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -436,8 +437,7 @@
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
-      "2025-08-03": 1440,
-      "2025-08-02": 1440
+      "2025-08-03": 1440
     }
   },
   {
@@ -446,18 +446,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "74.67%",
+    "uptime": "74.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 441,
-    "timeDay": 224,
-    "timeWeek": 258,
-    "timeMonth": 280,
-    "timeYear": 409,
+    "time": 440,
+    "timeDay": 166,
+    "timeWeek": 242,
+    "timeMonth": 276,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2026-08-01": 161,
+      "2026-08-02": 52,
+      "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -820,8 +821,7 @@
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
-      "2025-08-03": 1440,
-      "2025-08-02": 1440
+      "2025-08-03": 1440
     }
   },
   {
@@ -830,18 +830,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "42.78%",
+    "uptime": "42.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 578,
+    "time": 579,
     "timeDay": 0,
-    "timeWeek": 396,
-    "timeMonth": 373,
+    "timeWeek": 381,
+    "timeMonth": 369,
     "timeYear": 568,
     "dailyMinutesDown": {
-      "2026-08-01": 161,
+      "2026-08-02": 52,
+      "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-07-29": 1440,
@@ -1204,8 +1205,7 @@
       "2025-08-06": 1440,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
-      "2025-08-03": 1440,
-      "2025-08-02": 1440
+      "2025-08-03": 1440
     }
   },
   {
@@ -1219,11 +1219,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.70%",
-    "time": 364,
-    "timeDay": 248,
-    "timeWeek": 427,
-    "timeMonth": 421,
-    "timeYear": 406,
+    "time": 365,
+    "timeDay": 841,
+    "timeWeek": 443,
+    "timeMonth": 430,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2025-09-27": 6,
       "2025-10-04": 7,
@@ -1266,21 +1266,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr1-pathwar-net",
     "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.57%",
+    "uptimeDay": "7.53%",
+    "uptimeWeek": "86.79%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "99.69%",
     "time": 113,
-    "timeDay": 108,
+    "timeDay": 0,
     "timeWeek": 119,
-    "timeMonth": 111,
+    "timeMonth": 110,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-09-12": 10,
       "2026-02-11": 209,
       "2026-06-09": 71,
-      "2026-08-01": 0
+      "2026-08-02": 53,
+      "2026-08-01": 1279
     }
   },
   {
@@ -1295,9 +1296,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 106,
+    "timeDay": 114,
     "timeWeek": 117,
-    "timeMonth": 111,
+    "timeMonth": 109,
     "timeYear": 115,
     "dailyMinutesDown": {}
   }
