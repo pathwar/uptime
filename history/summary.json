@@ -13,8 +13,8 @@
     "time": 746,
     "timeDay": 930,
     "timeWeek": 714,
-    "timeMonth": 729,
-    "timeYear": 741,
+    "timeMonth": 731,
+    "timeYear": 740,
     "dailyMinutesDown": {
       "2025-09-27": 6,
       "2025-10-01": 8,
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "26.89%",
+    "uptime": "26.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-28": 200,
+      "2026-08-29": 46,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -435,8 +436,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -445,7 +445,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "73.60%",
+    "uptime": "73.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -453,10 +453,11 @@
     "time": 432,
     "timeDay": 310,
     "timeWeek": 241,
-    "timeMonth": 269,
+    "timeMonth": 268,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2026-08-28": 200,
+      "2026-08-29": 46,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -819,8 +820,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "42.17%",
+    "uptime": "42.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -837,10 +837,11 @@
     "time": 580,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 380,
+    "timeMonth": 371,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2026-08-28": 200,
+      "2026-08-29": 46,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -1203,8 +1204,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 1440,
       "2025-08-31": 1440,
-      "2025-08-30": 1440,
-      "2025-08-29": 1440
+      "2025-08-30": 1440
     }
   },
   {
@@ -1221,7 +1221,7 @@
     "time": 399,
     "timeDay": 834,
     "timeWeek": 707,
-    "timeMonth": 608,
+    "timeMonth": 601,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2025-09-27": 6,
@@ -1265,21 +1265,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr1-pathwar-net",
     "status": "down",
-    "uptime": "98.19%",
+    "uptime": "98.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.15%",
-    "uptimeYear": "92.54%",
+    "uptimeMonth": "8.22%",
+    "uptimeYear": "92.30%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 118,
+    "timeMonth": 117,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-09-12": 10,
       "2026-02-11": 209,
       "2026-06-09": 71,
-      "2026-08-28": 200,
+      "2026-08-29": 46,
+      "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
       "2026-08-25": 1440,
@@ -1317,13 +1318,13 @@
     "status": "up",
     "uptime": "98.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "20.32%",
+    "uptimeWeek": "33.09%",
     "uptimeMonth": "43.12%",
     "uptimeYear": "95.26%",
     "time": 114,
     "timeDay": 121,
     "timeWeek": 113,
-    "timeMonth": 117,
+    "timeMonth": 116,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2026-08-26": 1031,
