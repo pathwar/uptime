@@ -12,9 +12,9 @@
     "uptimeYear": "94.69%",
     "time": 745,
     "timeDay": 0,
-    "timeWeek": 648,
-    "timeMonth": 725,
-    "timeYear": 740,
+    "timeWeek": 596,
+    "timeMonth": 719,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2025-09-27": 6,
       "2025-10-01": 8,
@@ -61,7 +61,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "26.82%",
+    "uptime": "26.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-02": 53,
+      "2026-09-03": 54,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -435,8 +436,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -445,18 +445,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "73.41%",
+    "uptime": "73.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 431,
     "timeDay": 0,
-    "timeWeek": 233,
-    "timeMonth": 272,
+    "timeWeek": 239,
+    "timeMonth": 277,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2026-09-02": 53,
+      "2026-09-03": 54,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -819,8 +820,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -829,7 +829,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "42.06%",
+    "uptime": "42.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -840,7 +840,8 @@
     "timeMonth": 0,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2026-09-02": 53,
+      "2026-09-03": 54,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1203,8 +1204,7 @@
       "2025-09-07": 1440,
       "2025-09-06": 1440,
       "2025-09-05": 1440,
-      "2025-09-04": 1440,
-      "2025-09-03": 1440
+      "2025-09-04": 1440
     }
   },
   {
@@ -1220,8 +1220,8 @@
     "uptimeYear": "94.70%",
     "time": 401,
     "timeDay": 0,
-    "timeWeek": 761,
-    "timeMonth": 677,
+    "timeWeek": 855,
+    "timeMonth": 658,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-09-27": 6,
@@ -1265,11 +1265,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr1-pathwar-net",
     "status": "down",
-    "uptime": "97.94%",
+    "uptime": "97.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "91.20%",
+    "uptimeYear": "90.92%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1279,7 +1279,8 @@
       "2025-09-12": 10,
       "2026-02-11": 209,
       "2026-06-09": 71,
-      "2026-09-02": 53,
+      "2026-09-03": 54,
+      "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
@@ -1320,15 +1321,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr2-pathwar-net",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "31.01%",
-    "uptimeWeek": "80.44%",
-    "uptimeMonth": "40.85%",
-    "uptimeYear": "95.07%",
+    "uptime": "98.64%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "75.85%",
+    "uptimeMonth": "37.56%",
+    "uptimeYear": "94.80%",
     "time": 114,
     "timeDay": 0,
-    "timeWeek": 104,
-    "timeMonth": 112,
+    "timeWeek": 101,
+    "timeMonth": 114,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2026-08-26": 1031,
@@ -1349,7 +1350,8 @@
       "2026-08-11": 1440,
       "2026-08-10": 1440,
       "2026-08-09": 846,
-      "2026-09-02": 53,
+      "2026-09-03": 54,
+      "2026-09-02": 1440,
       "2026-09-01": 940
     }
   }
