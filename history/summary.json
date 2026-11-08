@@ -6,15 +6,15 @@
     "slug": "pathwar-land",
     "status": "up",
     "uptime": "98.84%",
-    "uptimeDay": "98.95%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "94.87%",
     "time": 738,
-    "timeDay": 1885,
+    "timeDay": 0,
     "timeWeek": 1179,
     "timeMonth": 857,
-    "timeYear": 738,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2026-01-18": 11,
       "2026-01-21": 9,
@@ -55,7 +55,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.pathwar.land.ico",
     "slug": "api-pathwar-land",
     "status": "down",
-    "uptime": "25.92%",
+    "uptime": "25.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -66,7 +66,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-07": 30,
+      "2026-11-08": 44,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -429,8 +430,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -439,7 +439,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.pathwar.land.ico",
     "slug": "id-pathwar-land",
     "status": "down",
-    "uptime": "70.93%",
+    "uptime": "70.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -450,7 +450,8 @@
     "timeMonth": 322,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2026-11-07": 30,
+      "2026-11-08": 44,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -813,8 +814,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -823,7 +823,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.pathwar.land.ico",
     "slug": "api-dev-pathwar-land",
     "status": "down",
-    "uptime": "40.64%",
+    "uptime": "40.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -834,7 +834,8 @@
     "timeMonth": 0,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2026-11-07": 30,
+      "2026-11-08": 44,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -1197,8 +1198,7 @@
       "2025-11-12": 1440,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
-      "2025-11-09": 1440,
-      "2025-11-08": 1440
+      "2025-11-09": 1440
     }
   },
   {
@@ -1207,7 +1207,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/assets.pathwar.land.ico",
     "slug": "assets-pathwar-land",
     "status": "up",
-    "uptime": "98.99%",
+    "uptime": "99.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -1216,7 +1216,7 @@
     "timeDay": 0,
     "timeWeek": 648,
     "timeMonth": 678,
-    "timeYear": 471,
+    "timeYear": 472,
     "dailyMinutesDown": {
       "2025-11-17": 7,
       "2025-12-26": 6,
@@ -1255,11 +1255,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr1-pathwar-net",
     "status": "down",
-    "uptime": "94.63%",
+    "uptime": "94.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "73.12%",
+    "uptimeYear": "72.85%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1268,7 +1268,8 @@
     "dailyMinutesDown": {
       "2026-02-11": 209,
       "2026-06-09": 71,
-      "2026-11-07": 30,
+      "2026-11-08": 44,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
@@ -1375,11 +1376,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fr2-pathwar-net",
     "status": "down",
-    "uptime": "95.66%",
+    "uptime": "95.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "78.62%",
+    "uptimeYear": "78.34%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
@@ -1408,7 +1409,8 @@
       "2026-09-03": 1440,
       "2026-09-02": 1440,
       "2026-09-01": 940,
-      "2026-11-07": 30,
+      "2026-11-08": 44,
+      "2026-11-07": 1440,
       "2026-11-06": 1440,
       "2026-11-05": 1440,
       "2026-11-04": 1440,
